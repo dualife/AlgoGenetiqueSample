@@ -1,0 +1,5 @@
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\AlgoGenetiqueLibrairie\bin\Debug\AlgoGenetiqueLibrairie.dll
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\AlgoGenetiqueLibrairie\bin\Debug\AlgoGenetiqueLibrairie.pdb
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\AlgoGenetiqueLibrairie\obj\Debug\AlgoGenetiqueLibrairie.csprojResolveAssemblyReference.cache
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\AlgoGenetiqueLibrairie\obj\Debug\AlgoGenetiqueLibrairie.dll
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\AlgoGenetiqueLibrairie\obj\Debug\AlgoGenetiqueLibrairie.pdb

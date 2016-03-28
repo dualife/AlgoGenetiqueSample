@@ -1,0 +1,9 @@
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\TP algo génétique\bin\Debug\TP algo génétique.exe.config
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\TP algo génétique\bin\Debug\TP algo génétique.exe
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\TP algo génétique\bin\Debug\TP algo génétique.pdb
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\TP algo génétique\obj\Debug\TP algo génétique.csprojResolveAssemblyReference.cache
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\TP algo génétique\obj\Debug\TP algo génétique.exe
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\TP algo génétique\obj\Debug\TP algo génétique.pdb
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\TP algo génétique\bin\Debug\AlgoGenetiqueLibrairie.dll
+C:\Users\gosse\Source\Workspaces\DTA Ingenierie Formation DotNET\Algorithme génétique\TP algo génétique\TP algo génétique\bin\Debug\AlgoGenetiqueLibrairie.pdb
+C:\Users\gosse\OneDrive\Documents\GitHub\AlgoGenetiqueSample\TP algo génétique\bin\Debug\TP algo génétique.exe.config
